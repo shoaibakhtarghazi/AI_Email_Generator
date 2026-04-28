@@ -1,0 +1,7 @@
+# file : .gitignore (in your project root folder)
+.env
+__pycache__/
+*.pyc
+.DS_Store   
+venv/
+*.db
